@@ -55,9 +55,9 @@
 
   const form = document.getElementById('contactForm');
   const msg = document.getElementById('formMsg');
-  const submitBtn = form.querySelector('button[type="submit"]');
+  const submitBtn = form && form.querySelector('button[type="submit"]');
 
-  form.addEventListener('submit', async (e) => {
+  if (form && msg && submitBtn) form.addEventListener('submit', async (e) => {
     e.preventDefault();
     submitBtn.disabled = true;
     const originalLabel = submitBtn.textContent;
