@@ -331,6 +331,17 @@
   /* ---- responsive ---- */
   @media (max-width:920px){
     nav.links{display:none;}
+    nav.links.is-open{
+      display:flex;
+      flex-direction:column;
+      position:absolute;
+      top:58px;
+      left:0;
+      right:0;
+      background:rgba(15,42,67,0.98);
+      padding:18px 28px;
+      gap:16px;
+    }
     .burger{display:flex;}
     .hero-inner{grid-template-columns:1fr;}
     .services-grid{grid-template-columns:1fr 1fr;}
