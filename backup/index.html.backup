@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zinder Digital — Sites web et solutions numériques au Niger</title>
+<meta name="description" content="Zinder Digital accompagne les entreprises et professionnels de Zinder et du Niger avec des sites web, la visibilité locale, WhatsApp Business et des solutions numériques adaptées.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Work+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<div class="topbar">Basé à Zinder, Niger — Accompagnement à Zinder, dans les autres villes du Niger et à distance.</div>
+
+<header>
+  <div class="nav-row">
+    <div class="brand"><img class="logo-img" src="assets/images/logo.png" alt="Logo Zinder Digital">Zinder Digital</div>
+    <nav class="links" id="primary-navigation">
+      <a href="#accueil">Accueil</a>
+      <a href="#services">Services</a>
+      <a href="#offres">Offres et tarifs</a>
+      <a href="#realisations">Réalisations</a>
+      <a href="#methode">Notre méthode</a>
+      <a href="#apropos">À propos</a>
+      <a href="#faq">FAQ</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <a class="nav-cta" href="https://wa.me/22782199929" target="_blank" rel="noopener">WhatsApp</a>
+    <button class="burger" id="burger" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="primary-navigation"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<section class="hero" id="accueil">
+  <div class="wrap hero-inner">
+    <div>
+      <span class="badge">Solutions numériques pour les professionnels</span>
+      <h1>Votre activité mérite une présence digitale <em>professionnelle</em>.</h1>
+      <p class="lead">Nous aidons les entreprises et les professionnels à développer leur visibilité, présenter leurs services et mieux communiquer avec leurs clients grâce à des solutions numériques adaptées.</p>
+      <div class="hero-actions">
+        <a href="#services" class="btn btn-primary">Découvrir nos services</a>
+        <a href="#offres" class="btn btn-ghost">Voir nos offres</a>
+        <a href="https://wa.me/22782199929?text=Bonjour%20Mouslim%2C%20je%20souhaite%20discuter%20d%E2%80%99un%20projet%20digital%20pour%20mon%20entreprise." target="_blank" rel="noopener" class="btn btn-wa">Discuter sur WhatsApp</a>
+      </div>
+      <div class="trust-row">
+        <div class="trust-item"><span class="check">✓</span> À Zinder et à distance</div>
+        <div class="trust-item"><span class="check">✓</span> Solutions adaptées à votre besoin</div>
+        <div class="trust-item"><span class="check">✓</span> Périmètre précisé avant validation</div>
+      </div>
+    </div>
+    <div class="hero-panel reveal">
+      <div class="frieze on-dark"></div>
+      <div class="stat-row"><span class="stat-label">Création de sites web</span><span class="stat-value">Vitrines & mini-sites</span></div>
+      <div class="stat-row"><span class="stat-label">Visibilité sur Google</span><span class="stat-value">Présence locale</span></div>
+      <div class="stat-row"><span class="stat-label">WhatsApp Business</span><span class="stat-value">Configuration</span></div>
+      <div class="stat-row"><span class="stat-label">Solutions personnalisées</span><span class="stat-value">Selon le besoin</span></div>
+    </div>
+  </div>
+</section>
+<div class="frieze"></div>
+
+<section class="section on-white" id="services">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Nos services</div>
+      <h2>Des solutions numériques adaptées à votre activité</h2>
+      <p>Choisissez un service ou présentez-nous votre besoin pour définir un périmètre adapté.</p>
+    </div>
+    <div class="services-grid">
+      <div class="service-card reveal">
+        <span class="num">01</span>
+        <h3>Création de sites web</h3>
+        <p><strong>Pour votre besoin :</strong> présenter votre activité et vos informations en ligne.</p>
+        <p><strong>Bénéfice attendu :</strong> offrir à vos clients un point de repère clair, accessible sur téléphone.</p>
+        <a class="card-link" href="#contact">Présenter mon projet <span class="arrow">→</span></a>
+      </div>
+      <div class="service-card reveal">
+        <span class="num">02</span>
+        <h3>Visibilité sur Google</h3>
+        <p><strong>Pour votre besoin :</strong> aider les personnes à retrouver votre activité dans leur recherche locale.</p>
+        <p><strong>Bénéfice attendu :</strong> présenter vos informations locales au même endroit, selon votre situation.</p>
+        <a class="card-link" href="#contact">Demander un devis <span class="arrow">→</span></a>
+      </div>
+      <div class="service-card reveal">
+        <span class="num">03</span>
+        <h3>WhatsApp Business</h3>
+        <p><strong>Pour votre besoin :</strong> disposer d'un canal professionnel pour échanger avec vos clients.</p>
+        <p><strong>Bénéfice attendu :</strong> organiser votre profil, catalogue et messages selon le périmètre retenu.</p>
+        <a class="card-link" href="https://wa.me/22782199929" target="_blank" rel="noopener">Discuter sur WhatsApp <span class="arrow">→</span></a>
+      </div>
+      <div class="service-card reveal">
+        <span class="num">04</span>
+        <h3>Solutions numériques personnalisées</h3>
+        <p><strong>Pour votre besoin :</strong> répondre à une activité ou un processus qui demande un outil spécifique.</p>
+        <p><strong>Bénéfice attendu :</strong> étudier une solution numérique construite autour du besoin défini ensemble.</p>
+        <a class="card-link" href="#contact">Présenter mon projet <span class="arrow">→</span></a>
+      </div>
+      <div class="service-card reveal">
+        <span class="num">05</span>
+        <h3>Formation et accompagnement</h3>
+        <p><strong>Pour votre besoin :</strong> prendre en main les outils numériques réalisés pour votre activité.</p>
+        <p><strong>Bénéfice attendu :</strong> comprendre leur utilisation au quotidien et gagner en autonomie.</p>
+        <a class="card-link" href="#contact">Demander un devis <span class="arrow">→</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section pack-section" id="offres">
+  <div class="wrap pack-grid">
+    <div class="reveal">
+      <div class="section-head" style="margin-bottom:0;">
+        <div class="eyebrow">Offres et tarifs</div>
+        <h2>Des offres claires à adapter selon votre besoin</h2>
+        <p>Les montants ci-dessous sont des propositions de départ à confirmer selon votre activité, votre périmètre et les éléments à intégrer.</p>
+      </div>
+      <ul class="pack-list">
+        <li><span class="chk">✓</span> Présence digitale : à partir de 25 000 FCFA</li>
+        <li><span class="chk">✓</span> Visibilité locale : à partir de 50 000 FCFA</li>
+        <li><span class="chk">✓</span> Pack Visibilité : à partir de 100 000 FCFA</li>
+        <li><span class="chk">✓</span> Options selon contenus, catalogues, fonctionnalités ou accompagnement</li>
+        <li><span class="chk">✓</span> Prix à valider avant démarrage</li>
+        <li><span class="chk">✓</span> Formation ou accompagnement selon le besoin</li>
+      </ul>
+    </div>
+    <div class="pack-card reveal">
+      <div class="frieze on-dark"></div>
+      <div class="pack-price">À confirmer</div>
+      <div class="pack-price-note">Les tarifs indiqués sont des propositions de départ. Le périmètre exact, les contenus, les options et les frais externes sont précisés ensemble avant validation.</div>
+      <a href="https://wa.me/22782199929?text=Bonjour%20Mouslim%2C%20je%20souhaite%20un%20devis%20pour%20une%20offre%20Zinder%20Digital." target="_blank" rel="noopener" class="btn btn-primary" style="width:100%; justify-content:center;">Demander un devis</a>
+    </div>
+  </div>
+</section>
+
+<section class="section on-white" id="methode">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Notre méthode</div>
+      <h2>Un projet clair, étape par étape</h2>
+    </div>
+    <div class="process-grid">
+      <div class="process-item reveal">
+        <div class="process-num">1</div>
+        <h4>Échange initial</h4>
+        <p>Nous échangeons sur votre activité, vos besoins et les objectifs à atteindre.</p>
+      </div>
+      <div class="process-item reveal">
+        <div class="process-num">2</div>
+        <h4>Devis et périmètre</h4>
+        <p>Vous recevez une proposition claire et un périmètre à valider avant le démarrage.</p>
+      </div>
+      <div class="process-item reveal">
+        <div class="process-num">3</div>
+        <h4>Réalisation</h4>
+        <p>Le site, les éléments de visibilité et les outils nécessaires sont mis en place selon votre besoin.</p>
+      </div>
+      <div class="process-item reveal">
+        <div class="process-num">4</div>
+        <h4>Livraison et accompagnement</h4>
+        <p>Le projet est livré, expliqué et accompagné selon le niveau d'autonomie souhaité.</p>
+      </div>
+    </div>
+    <p class="process-note reveal">Le périmètre, les contenus, les options et les frais externes sont précisés avant validation.</p>
+  </div>
+</section>
+
+<section class="section on-dim" id="realisations">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Réalisations</div>
+      <h2>Réalisations et démonstrations</h2>
+      <p>Les projets présentés ci-dessous permettent de mieux comprendre les usages possibles. Les démonstrations ne remplacent pas des références clients non vérifiées.</p>
+    </div>
+    <div class="demo-grid">
+      <div class="demo-card reveal">
+        <div class="demo-visual"><span class="glyph">AtelierPro</span></div>
+        <div class="demo-body">
+          <span class="demo-tag">Projet développé</span>
+          <h3>AtelierPro</h3>
+          <p>Une solution pensée pour la présentation d'un atelier, d'un service professionnel ou d'une activité locale avec un accès mobile simple.</p>
+          <span class="demo-tag">APK disponible sur demande</span>
+        </div>
+      </div>
+      <div class="demo-card reveal">
+        <div class="demo-visual"><span class="glyph">Boutique</span></div>
+        <div class="demo-body">
+          <span class="demo-tag">Concept de démonstration</span>
+          <h3>Boutique — Démo Zinder</h3>
+          <p>Mini-site pour une boutique avec produits, WhatsApp et carte Google Maps ; exemple de structure et de parcours utilisateur.</p>
+          <a class="card-link" href="#contact">Adaptable à votre activité <span class="arrow">→</span></a>
+        </div>
+      </div>
+      <div class="demo-card reveal">
+        <div class="demo-visual"><span class="glyph">Restaurant</span></div>
+        <div class="demo-body">
+          <span class="demo-tag">Concept de démonstration</span>
+          <h3>Restaurant — Démo Zinder</h3>
+          <p>Site pour un restaurant : menu, horaires, localisation et commande via WhatsApp, pensés comme modèle de présentation.</p>
+          <a class="card-link" href="#contact">Adaptable à votre activité <span class="arrow">→</span></a>
+        </div>
+      </div>
+      <div class="demo-card reveal">
+        <div class="demo-visual"><span class="glyph">Formation</span></div>
+        <div class="demo-body">
+          <span class="demo-tag">Concept de démonstration</span>
+          <h3>Centre de formation — Démo Zinder</h3>
+          <p>Exemple de site pour un centre de formation avec programmes, infos pratiques et prise de contact simplifiée.</p>
+          <a class="card-link" href="#contact">Adaptable à votre activité <span class="arrow">→</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section on-white" id="faq">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Questions fréquentes</div>
+      <h2>Réponses rapides avant de démarrer</h2>
+    </div>
+    <div class="faq-list reveal">
+      <details open>
+        <summary>Quel est le point de départ pour un projet ?</summary>
+        <p>Le point de départ est un échange simple sur votre activité, les informations à présenter et les objectifs recherchés.</p>
+      </details>
+      <details>
+        <summary>Le prix est-il déjà fixé ?</summary>
+        <p>Les montants proposés sont des points de départ. Le périmètre exact et les fonctionnalités sont confirmés avant validation.</p>
+      </details>
+      <details>
+        <summary>Faut-il fournir des contenus et des photos ?</summary>
+        <p>Oui, selon le projet. Les textes, photos et éléments de présentation sont utiles pour préparer le travail.</p>
+      </details>
+      <details>
+        <summary>Peut-on travailler à distance ?</summary>
+        <p>Oui, selon le projet. L'accompagnement peut se faire à distance et, selon les cas, avec un rendez-vous local.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+<section class="section on-white" id="apropos">
+  <div class="wrap about-grid">
+    <div class="about-photo reveal">
+      <div class="ph-text">
+        <strong>Mouslim Yacouba</strong>
+        <span>Développeur freelance basé à Zinder</span>
+      </div>
+    </div>
+    <div class="about-text reveal">
+      <div class="eyebrow">À propos</div>
+      <h2 style="margin-bottom:18px;">À propos de Zinder Digital</h2>
+      <p>Je suis Mouslim Yacouba, développeur freelance basé à Zinder, Niger.</p>
+      <p>J'accompagne les commerces, artisans, restaurants, écoles et petites entreprises dans leur visibilité et leur digitalisation. Je crée des sites web simples, rapides et adaptés aux téléphones, puis je les associe à Google Maps et WhatsApp Business pour aider les entreprises à mieux communiquer avec leurs clients.</p>
+      <p>Mon objectif est simple : vous proposer des outils utiles, faciles à utiliser et adaptés aux réalités locales.</p>
+      <div class="signature">— Mouslim Yacouba, Zinder Digital</div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="contact" style="background:var(--blue-deep);">
+  <div class="frieze on-dark" style="position:absolute; top:0; left:0; right:0;"></div>
+  <div class="wrap contact-wrap" style="padding-top:20px;">
+    <div class="contact-info reveal">
+      <div class="eyebrow" style="color:var(--orange)">Me contacter</div>
+      <h2>Parlons de votre projet</h2>
+      <p>Vous souhaitez être trouvé sur Google, recevoir plus de demandes sur WhatsApp ou avoir un site web professionnel ? Écrivez-moi pour un premier échange gratuit et sans engagement.</p>
+
+      <div class="info-row"><span class="lbl">Responsable</span><span class="val">Mouslim Yacouba</span></div>
+      <div class="info-row"><span class="lbl">WhatsApp</span><span class="val"><a href="https://wa.me/22782199929?text=Bonjour%20Mouslim%2C%20je%20souhaite%20avoir%20plus%20d%E2%80%99informations%20sur%20vos%20services." target="_blank" rel="noopener">+227 82 19 99 29</a></span></div>
+      <div class="info-row"><span class="lbl">Email</span><span class="val"><a href="mailto:mouslimyac@gmail.com">mouslimyac@gmail.com</a></span></div>
+      <div class="info-row"><span class="lbl">Adresse</span><span class="val">Zinder, Niger</span></div>
+      <div class="info-row"><span class="lbl">Disponibilité</span><span class="val">Du lundi au samedi, sur rendez-vous</span></div>
+
+      <a href="https://wa.me/22782199929?text=Bonjour%20Mouslim%2C%20je%20souhaite%20avoir%20plus%20d%E2%80%99informations%20sur%20vos%20services." target="_blank" rel="noopener" class="btn btn-wa" style="margin-top:26px;">Écrire sur WhatsApp</a>
+    </div>
+
+    <form class="contact-form reveal" id="contactForm" action="https://formspree.io/f/mzebpvdr" method="POST">
+      <input type="hidden" name="_subject" value="Nouveau message — Zinder Digital">
+      <div class="field">
+        <label for="name">Nom complet</label>
+        <input type="text" id="name" name="name" required placeholder="Votre nom">
+      </div>
+      <div class="field">
+        <label for="phone">Téléphone</label>
+        <input type="tel" id="phone" name="phone" required placeholder="+227 ...">
+      </div>
+      <div class="field">
+        <label for="email">Email (optionnel)</label>
+        <input type="email" id="email" name="email" placeholder="vous@exemple.com">
+      </div>
+      <div class="field">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="4" required placeholder="Parlez-moi de votre activité et de votre projet..."></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary" style="align-self:flex-start;">Envoyer le message</button>
+      <p class="form-note">Je réponds généralement dans les 24 heures, du lundi au samedi.</p>
+      <p class="form-msg" id="formMsg" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="footer-row">
+      <div>
+        <div>© 2026 Zinder Digital — Mouslim Yacouba. Tous droits réservés.</div>
+        <div class="footer-brand">Sites web, Google Maps et WhatsApp Business pour les entreprises de Zinder. · Zinder, Niger | WhatsApp : +227 82 19 99 29</div>
+      </div>
+      <div class="footer-links">
+        <a href="#">Mentions légales</a>
+        <a href="#">Politique de confidentialité</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<a class="wa-float" href="https://wa.me/22782199929" target="_blank" rel="noopener" aria-label="Contacter sur WhatsApp">
+  <svg width="28" height="28" viewBox="0 0 24 24" fill="white"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.44.78 3.07 1.2 4.74 1.2h.01c5.46 0 9.91-4.45 9.91-9.91C21.96 6.45 17.51 2 12.04 2zm5.79 14.11c-.24.68-1.4 1.3-1.94 1.38-.5.08-1.13.11-1.83-.11-.42-.13-.96-.31-1.65-.6-2.9-1.25-4.79-4.16-4.94-4.35-.14-.19-1.18-1.57-1.18-3 0-1.42.75-2.12 1.02-2.41.26-.29.57-.36.76-.36h.55c.18 0 .42-.03.65.5.24.57.81 1.98.88 2.13.07.14.12.31.02.5-.09.19-.14.31-.28.48-.14.17-.29.37-.42.5-.14.14-.28.29-.12.57.16.28.71 1.17 1.53 1.9 1.05.94 1.94 1.23 2.22 1.37.28.14.44.12.6-.07.16-.19.68-.79.87-1.06.19-.28.37-.23.62-.14.26.09 1.62.76 1.9.9.28.14.46.21.53.33.07.12.07.68-.17 1.36z"/></svg>
+</a>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
