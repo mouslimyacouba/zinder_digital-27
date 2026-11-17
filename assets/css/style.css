@@ -256,6 +256,9 @@
   .demo-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:24px;}
   .demo-card{background:var(--blue-deep); border-radius:6px; overflow:hidden; color:var(--white); display:flex; flex-direction:column;}
   .demo-visual{height:140px; position:relative; background: linear-gradient(160deg, var(--blue-mid), var(--blue-deep)); display:flex; align-items:center; justify-content:center;}
+  .demo-visual.has-image{height:260px; background:#F8FAFC;}
+  .demo-visual.has-image::after{display:none;}
+  .demo-visual.has-image img{width:100%; height:100%; object-fit:contain;}
   .demo-visual::after{
     content:""; position:absolute; inset:0;
     background-image: repeating-linear-gradient(135deg, rgba(245,158,11,0.16) 0 6px, transparent 6px 12px),
