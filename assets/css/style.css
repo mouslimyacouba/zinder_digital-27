@@ -270,6 +270,22 @@
   .demo-body .card-link{color:var(--orange);}
   .demo-body .card-link:hover{color:var(--white);}
 
+  /* ---- FAQ ---- */
+  .faq-list{display:grid; gap:16px; max-width:860px;}
+  .faq-list details{
+    background:var(--white); border:1px solid #DEE6EE; border-radius:6px; padding:18px 22px;
+  }
+  .faq-list summary{
+    list-style:none; cursor:pointer; font-family:var(--display); font-weight:700; color:var(--blue-deep);
+    font-size:18px; display:flex; align-items:center; justify-content:space-between; gap:12px;
+  }
+  .faq-list summary::-webkit-details-marker{display:none;}
+  .faq-list summary::after{
+    content:"+"; color:var(--orange-deep); font-size:24px; line-height:1; font-family:var(--mono);
+  }
+  .faq-list details[open] summary::after{content:"−";}
+  .faq-list p{margin-top:12px; color:var(--text-soft); font-size:15px;}
+
   /* ---- à propos ---- */
   .about-grid{display:grid; grid-template-columns:0.8fr 1.2fr; gap:52px; align-items:center;}
   .about-photo{
